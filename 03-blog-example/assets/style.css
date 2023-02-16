@@ -146,6 +146,12 @@ a {
   }
 }
 
+@media (max-width: 725px) {
+  .max-width-wrapper {
+    overflow: hidden;
+  }
+}
+
 .heading-decoration {
   position: absolute;
   top: -25px;
